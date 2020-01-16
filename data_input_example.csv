@@ -1,0 +1,14 @@
+concentration_unit,time_unit,absorbing_tissue_measure_unit,initial_volume,final_volume,absorbing_tissue_measure,sampling_times,observed_instant_concentrations,sampling_volumes
+mmol/L,s,g,0.1954,0.1435,55,0,397,0
+,,,,,,0.5,347,0
+,,,,,,1,296,0
+,,,,,,1.5,246,0
+,,,,,,2,195,0
+,,,,,,2.5,144,0
+,,,,,,3,94,0
+,,,,,,3.5,80,0
+,,,,,,4,66,0
+,,,,,,4.5,54,0
+,,,,,,5,41,0
+,,,,,,5.5,40,0
+,,,,,,6,42,0
